@@ -23,3 +23,14 @@
 ## day6
 - [x] rust学习多线程
 - [x] oslab0-1学习 
+
+## day7
+- [x] rust学习全局变量、错误处理、Macro宏编程、Unsafe Rust
+- [x] oslab0-2学习
+## day8
+- [x] oslab1阅读文档，写oslab1
+
+## day9
+- [x] 完成oslab1
+## day10
+- [x] oslab2阅读文档，写oslab2
