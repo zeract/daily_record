@@ -32,5 +32,36 @@
 
 ## day9
 - [x] 完成oslab1
+
 ## day10
 - [x] oslab2阅读文档，写oslab2
+
+## day11
+- [x] 写oslab2，读文档
+
+## day12
+- [x] 完成oslab2
+
+## day13
+- [x] 读oslab3文档
+
+## day14
+- [x]读oslab3文档
+
+## day15
+- [x]写oslab3
+
+## day16
+- [x]写oslab3
+
+## day17
+- [x]完成oslab3
+
+## day18
+- [x]读oslab4文档
+
+## day19
+- [x]疫情，没有进展
+
+## day20
+- [x]封控，读了一会oslab4文档
